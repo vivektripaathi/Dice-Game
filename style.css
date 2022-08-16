@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(rgb(57, 58, 66), rgb(177, 177, 187));
+    width: 50%;
+    margin: 5% auto;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+    color: rgb(23, 156, 209);
+    font-family: 'Great Vibes', cursive;
+}
+.player1{
+    font-size: 1.5em;
+}
+.player2{
+    font-size: 1.5em;
+}
+.dice{
+    display: flex;
+    margin-top: 10%;
+}
+.image2{
+    margin-left: 20%;
+}
+button{
+    margin: 10% 36%;
+    font-size: 2em;;
+}
+button:hover{
+    background-color: chocolate;
+    color: aliceblue;
+    border-radius: 10px;
+    border: 1px solid chocolate;
+    
+}
